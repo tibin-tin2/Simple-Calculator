@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="equal">=</string>
+    <string name="addition">+</string>
+    <string name="substration">-</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="correct">C/E</string>
+</resources>
