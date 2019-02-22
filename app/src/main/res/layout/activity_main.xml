@@ -155,7 +155,7 @@
             android:id="@+id/multiplication"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="multiplicaton"
+            android:onClick="multiplication"
             android:text="@string/multiplication"
             tools:layout_editor_absoluteX="328dp"
             tools:layout_editor_absoluteY="192dp" />

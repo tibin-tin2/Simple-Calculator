@@ -258,7 +258,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void multiplicaton (View view)
+    public void multiplication(View view)
     {
 
         //method for addtion
